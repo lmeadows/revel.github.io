@@ -52,3 +52,7 @@ revel run github.com/revel/examples/booking
 
 <a class="btn btn-primary btn-sm" href="facebook-oauth2.html" role="button">View <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
 
+## HTTP Basic Auth
+  - A sample app that shows how to implement HTTP Basic Auth.
+
+<a class="btn btn-primary btn-sm" href="http-basic-auth.html" role="button">View <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>
